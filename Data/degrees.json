@@ -1,0 +1,14 @@
+[
+    {
+    "Name": "Computer Science B.S",
+    "Req":{
+        "Uni_Req": "ENGL 110, EGGG 101, CISC 498, ANTH 101, CISC 355, CISC 356, BISC 103, CISC 499",
+        "Eng_Req": "ENGL 317, ENGL 312, SPAN 107, ART 129, ART 133, ART 180",
+        "Cisc_Core": "CISC 108, CISC 181, CISC 210, CISC 220, CISC 260, CISC 275, CISC 303, MATH 210, MATH 241, CISC 361, CISC 372",
+        "Cap_Stone": "CISC 498, CISC 499",
+        "Lab_Science": "GEOL 105, GEOL 115, GEOL 107"
+
+        }
+    }
+
+]
